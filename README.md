@@ -26,3 +26,8 @@ NEXT_PUBLIC_BASE_PATH=/devfestsantiago25 npm run build
 ```
 
 El despliegue a GitHub Pages se realiza automáticamente mediante GitHub Actions (`.github/workflows/deploy.yml`) al hacer push a la rama `main`.
+
+## Créditos y agradecimientos
+
+Sitio web elaborado para **GDG Santiago de Chile** con la valiosa colaboración de [**Erasmo Hernandez (@erasmoh)**](https://github.com/erasmoh) en el desarrollo de la base original del proyecto ([`erasmoh/devfest`](https://github.com/erasmoh/devfest)).
+

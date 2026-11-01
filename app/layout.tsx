@@ -15,6 +15,10 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "GDG DevFest Santiago 2025",
   description: "El evento de tecnología más grande de la comunidad local",
+  authors: [
+    { name: "GDG Santiago de Chile", url: "https://github.com/GDGSantiagoDeChile" },
+    { name: "Erasmo Hernandez", url: "https://github.com/erasmoh" },
+  ],
 };
 
 export default function RootLayout({
