@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Google Developers",
+    "logo": "/sponsors/googledevs.svg",
+    "tier": "platinum"
+  },
+  {
+    "id": 2,
+    "name": "Windsurf",
+    "logo": "/sponsors/windsurf.png",
+    "tier": "gold"
+  },
+  {
+    "id": 3,
+    "name": "Hub Providencia",
+    "logo": "/sponsors/hub_providencia.jpg",
+    "tier": "gold"
+  },
+  {
+    "id": 4,
+    "name": "Community OS",
+    "logo": "/sponsors/community_os.png",
+    "tier": "silver"
+  }
+]

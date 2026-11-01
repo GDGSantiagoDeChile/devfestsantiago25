@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Maria Laura Jaramillo",
+    "role": "Mobile Developer",
+    "company": "Thoughtworks | Woman Tech Maker Ambassador",
+    "image": "/speakers/maria-laura-jaramillo-min.jpg"
+  },
+  {
+    "name": "Julissa Rodriguez",
+    "role": "Tech Lead",
+    "company": "@EnaraHealth & @PeruNetDev Co-Founder",
+    "image": "/speakers/julissa-rodriguez-min.jpg"
+  },
+  {
+    "name": "Daniel Becerra",
+    "role": "R&D Engineer",
+    "company": "@Axmos",
+    "image": "/speakers/daniel-becerra-quijada-min.jpg"
+  },
+  {
+    "name": "José Valladares",
+    "role": "Technical Lead",
+    "company": "Bci | IA, Productividad Dev y Liderazgo Técnico",
+    "image": "/speakers/jose-valladares-min.jpg"
+  },
+  {
+    "name": "Francisca Beatriz Medina Concha",
+    "role": "Diseñadora y Desarrolladora Web",
+    "company": "Diseño Profesional",
+    "image": "/speakers/francisca-beatriz-medina-concha-min.jpg"
+  },
+  {
+    "name": "Nahir Fajardo",
+    "role": "CEO/Producer",
+    "company": "Dreams of Heaven Games",
+    "image": "/speakers/nahir-fajardo-min.jpg"
+  },
+  {
+    "name": "Michael Mora",
+    "role": "Co-Fundador & Desarrollador de Videojuegos",
+    "company": "Dreams of Heaven Games | 11 años en Unity | Profesor de Informática y Videojuegos",
+    "image": "/speakers/michael-mora-min.jpg"
+  },
+  {
+    "name": "Mirina Gonzales Rodriguez",
+    "role": "Ingeniera de Datos",
+    "company": "Embajadora de Women Techmakers",
+    "image": "/speakers/mirina-gonzales-rodriguez (1)-min.jpg"
+  },
+  {
+    "name": "Nicolás Lecaros",
+    "role": "GDE Cloud & Cloud Instructor",
+    "company": "AprendeCloud",
+    "image": "/speakers/nicolas-lecaros.jpg"
+  },
+  {
+    "name": "Joel Humberto Gomez",
+    "role": "GDE Web",
+    "image": "/speakers/joel-humberto-gomez.jpg"
+  },
+  {
+    "name": "Diego De Granda",
+    "role": "GDE Web & CTO",
+    "company": "Besage.ai",
+    "image": "/speakers/diego-de-granda.jpg"
+  },
+  {
+    "name": "Brian Castillo",
+    "role": "GDE Firebase & CEO",
+    "company": "Taya",
+    "image": "/speakers/brian-castillo.png"
+  }
+]

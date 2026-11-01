@@ -1,0 +1,74 @@
+[
+  {
+    "time": "10:00",
+    "title": "Bienvenida",
+    "type": "general",
+    "speaker": "Equipo"
+  },
+  {
+    "time": "10:15",
+    "title": "Presentación GDGs, WTM y sponsors",
+    "type": "general",
+    "speaker": "Equipo"
+  },
+  {
+    "time": "10:30",
+    "title": "El día que dejé de escribir sola: creatividad sin fricción con Windsurf AI",
+    "speaker": "Francisca Beatriz Medina Concha",
+    "type": "talk"
+  },
+  {
+    "time": "11:00",
+    "title": "Liderazgo Técnico: ¿Pasión o Presión?",
+    "speaker": "Maria Laura Jaramillo",
+    "type": "lightning"
+  },
+  {
+    "time": "11:20",
+    "title": "IA para Developers: Del Prompt al Deploy con Gemini CLI",
+    "speaker": "José Valladares",
+    "type": "talk"
+  },
+  {
+    "time": "11:50",
+    "title": "Desenmascarando el Rendimiento. Estrategias de Optimización Críticas para Juegos Unity en Cross-Plat",
+    "speaker": "Michael Mora",
+    "type": "talk"
+  },
+  {
+    "time": "12:20",
+    "title": "Simplificando la visualización de datos: Streamlit y Big Query en Acción",
+    "speaker": "Mirina Gonzales Rodriguez",
+    "type": "talk"
+  },
+  {
+    "time": "13:00",
+    "title": "Almuerzo",
+    "type": "break",
+    "speaker": ""
+  },
+  {
+    "time": "14:15",
+    "title": "RAG Autopsy: diseccionando alucinaciones",
+    "speaker": "Julissa Rodriguez / Daniel Becerra",
+    "type": "talk"
+  },
+  {
+    "time": "14:45",
+    "title": "La Carga del Héroe Solitario: Por qué Necesitamos Más Compañía y Menos Competencia en el Camino Tech",
+    "speaker": "Nahir Fajardo",
+    "type": "talk"
+  },
+  {
+    "time": "15:15",
+    "title": "Teaching Machines to Behave: The New Art of AI Engineering",
+    "speaker": "Diego De Granda",
+    "type": "talk"
+  },
+  {
+    "time": "15:45",
+    "title": "Cierre",
+    "type": "general",
+    "speaker": "Equipo"
+  }
+]

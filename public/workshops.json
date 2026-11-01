@@ -1,0 +1,26 @@
+[
+  {
+    "time": "10:30",
+    "title": "Firebase Studio: From Prompt to Deploy",
+    "speaker": "Brian Castillo",
+    "type": "workshop"
+  },
+  {
+    "time": "11:30",
+    "title": "Workflow del frontend en la era de la AI",
+    "speaker": "Joel Humberto Gomez",
+    "type": "workshop"
+  },
+  {
+    "time": "13:00",
+    "title": "Almuerzo",
+    "type": "break",
+    "speaker": ""
+  },
+  {
+    "time": "14:30",
+    "title": "Data Cloud en Acción: Desde BigQuery hasta IA Generativa",
+    "speaker": "Nicolás Lecaros",
+    "type": "workshop"
+  }
+]
