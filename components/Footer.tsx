@@ -16,11 +16,9 @@ export default function Footer() {
           <p>Código de Conducta • Política de Privacidad</p>
           <div className="inline-flex flex-wrap items-center justify-center gap-1.5 bg-gray-800/60 border border-gray-700/60 rounded-full px-4 py-1.5 text-xs text-gray-400">
             <span>📦 Archivo histórico DevFest Santiago 2025</span>
-            <span className="hidden sm:inline text-gray-600">•</span>
+            <span className="hidden sm:inline text-gray-600">-</span>
             <span>
-              Sitio elaborado por{' '}
-              <span className="text-gray-300 font-medium">GDG Santiago de Chile</span>{' '}
-              en colaboración con{' '}
+              Este sitio fue una colaboración de{' '}
               <a
                 href="https://github.com/erasmoh"
                 target="_blank"
@@ -28,7 +26,8 @@ export default function Footer() {
                 className="text-[#4285F4] hover:text-blue-300 font-medium hover:underline transition-colors"
               >
                 Erasmo Hernandez (@erasmoh)
-              </a>
+              </a>{' '}
+              para el <span className="text-gray-300 font-medium">GDG Santiago de Chile</span>
             </span>
           </div>
         </div>
